@@ -1,4 +1,4 @@
-TerraFly-Forensics: A Dataset for Forensic Detection of Generated Map Images © 2025 by ---- is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). 
+TerraFly-Forensics: A Dataset for Forensic Detection of Generated Map Images © 2025 by Arpan Mahara is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). The authors bear full responsibility for any violations of rights related to this dataset, including intellectual property rights, data privacy, and ethical considerations. 
 To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.
 
 ### Permissions and Restrictions:
